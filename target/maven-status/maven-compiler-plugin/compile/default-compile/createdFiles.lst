@@ -1,0 +1,14 @@
+com\demo\ecole\entities\Classe.class
+com\demo\ecole\entities\EtudiantMatire.class
+com\demo\ecole\entities\Matiere.class
+com\demo\ecole\repositories\ProfesseurRepository.class
+com\demo\ecole\controllers\EtudiantController.class
+com\demo\ecole\entities\Etudiant.class
+com\demo\ecole\services\MyService.class
+com\demo\ecole\exceptions\EtudiantNotFoundException.class
+com\demo\ecole\repositories\ClasseRepository.class
+com\demo\ecole\EcoleApplication.class
+com\demo\ecole\repositories\MatiereRepository.class
+com\demo\ecole\repositories\MatiereEtudiantRepository.class
+com\demo\ecole\entities\Professeur.class
+com\demo\ecole\repositories\EtudiantRepository.class
